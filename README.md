@@ -30,6 +30,19 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
+[Flask parte 1: Crie uma webapp com Python 3](https://www.alura.com.br/curso-online-flask-rotas-templates-autenticacao) | Alura | :large_orange_diamond: | Flask | :moneybag:
+[Flask parte 2: Avançando no desenvolvimento web](https://www.alura.com.br/curso-online-flask-upload-persistencia-javascript-jquery) | Alura |:red_circle: | Flask | :moneybag:
+[Design Patterns Python I: Boas práticas de programação](https://www.alura.com.br/curso-online-design-patterns-python) | Alura | :large_orange_diamond: | Desing Patterns | :moneybag:
+[Design Patterns Python II: Boas práticas de programação](https://www.alura.com.br/curso-online-design-patterns-python-2) | Alura | :large_orange_diamond: | Desing Patterns | :moneybag:
+[Django: programação web com Python e simplicidade](https://www.alura.com.br/curso-online-introducao-ao-django) | Alura | :red_circle: | Django | :moneybag:
+[Python 2: Programando com a linguagem](https://www.alura.com.br/curso-online-introducao-ao-python) | Alura | :green_heart: | Básico de Python2 | :moneybag:
+[Python 3: Avançando na orientação a objetos](https://www.alura.com.br/curso-online-python-3-avancando-orientacao-objetos) | Alura | :large_orange_diamond: | Orientação a objeto | :moneybag:
+[Python 3 parte 1: Introdução à nova versão da linguagem](https://www.alura.com.br/curso-online-python-3-introducao-a-nova-versao-da-linguagem) | Alura | :green_heart: | Básico de Python | :moneybag:
+[Python 3 parte 2: Avançando na linguagem](https://www.alura.com.br/curso-online-python-3-avancando-na-linguagem) | Alura | :green_heart: | Básico de Python | :moneybag:
+[Python Básico](https://www.cursoemvideo.com/course/curso-python-3/) | Curso em Vídeo | :green_heart: | Python para inciantes | :free:
+[Python Para Zumbis](https://www.pycursos.com/python-para-zumbis/) | Fernando Masanori/Professor FATEC-SP | :green_heart: | Python do Básico ao Intermediário | :free:
+[Testes automatizados: TDD com Python](https://www.alura.com.br/curso-online-tdd-com-python) | Alura | :red_circle: | Teste Automatizado | :moneybag:
+
 
 
 [Ir para o índice](#Índice)
