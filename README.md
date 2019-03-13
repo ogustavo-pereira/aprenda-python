@@ -1,10 +1,10 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/learnbr/template/master/logo.jpeg" alt="Aprenda X(template)" style="max-width:100%;">
+	<img src="https://raw.githubusercontent.com/learnbr/python/master/logo.png" alt="Aprenda Python" style="max-width:100%;">
 </p>
 
-<h1 align="center">Aprenda X(template)</h1>
+<h1 align="center">Aprenda Python</h1>
 
-<p align="center">Central de conhecimento sobre X(template).</p>
+<p align="center">Central de conhecimento sobre Python.</p>
 
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
