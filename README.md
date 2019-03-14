@@ -45,7 +45,12 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Python Básico](https://www.cursoemvideo.com/course/curso-python-3/) | Curso em Vídeo | :green_heart: | Python para inciantes | :free:
 [Python Para Zumbis](https://www.pycursos.com/python-para-zumbis/) | Fernando Masanori/Professor FATEC-SP | :green_heart: | Python do Básico ao Intermediário | :free:
 [Testes automatizados: TDD com Python](https://www.alura.com.br/curso-online-tdd-com-python) | Alura | :red_circle: | Teste Automatizado | :moneybag:
-
+[Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) | [DataCamp](https://www.datacamp.com) | :large_orange_diamond: | Machine Learning/Data Science | :moneybag:
+[Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) | [DataCamp](https://www.datacamp.com) | :red_circle: | Machine Learning/Data Science | :moneybag:
+[Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python) | [DataCamp](https://www.datacamp.com) | :large_orange_diamond: | Data Science | :moneybag:
+[Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python) | [DataCamp](https://www.datacamp.com) | :large_orange_diamond: | Data Visualization | :moneybag:
+[Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) | [DataCamp](https://www.datacamp.com) | :red_circle: | Deep Learning/Machine Learning | :moneybag:
+[Python para DevOps](https://www.4linux.com.br/cursos/python) |  [4Linux](https://www.4linux.com.br/) | :large_orange_diamond: | DevOps | :moneybag:
 
 
 [Ir para o índice](#Índice)
@@ -108,6 +113,8 @@ Nome do Feed | Idioma
 ## :sound: Podcasts
 Nome do Podcast | Idioma
 :-- | :--:
+[DataCamp Podcast](https://www.datacamp.com/community/podcast) | :us:
+[Talk Python to Me](https://talkpython.fm/) | :us:
 
 
 [Ir para o índice](#Índice)
@@ -119,7 +126,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 [![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) 
 --- |
-[Gustavo Pereira](https://github.com/oguhpereira) | 
+[Gustavo Pereira](https://github.com/oguhpereira)
 
 <h6 align="center">
 	<a href="./MIT.md">MIT</a>
