@@ -30,6 +30,8 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
+[Curso de Python](http://excript.com/curso-de-python.html) | excript | :green_heart: | Básico de Python | :free:
+[Curso de Python com SQLite](http://excript.com/curso-python-sqlite.html) | excript | :large_orange_diamond: | Python/Banco de Dados | :free:
 [Flask parte 1: Crie uma webapp com Python 3](https://www.alura.com.br/curso-online-flask-rotas-templates-autenticacao) | Alura | :large_orange_diamond: | Flask | :moneybag:
 [Flask parte 2: Avançando no desenvolvimento web](https://www.alura.com.br/curso-online-flask-upload-persistencia-javascript-jquery) | Alura |:red_circle: | Flask | :moneybag:
 [Design Patterns Python I: Boas práticas de programação](https://www.alura.com.br/curso-online-design-patterns-python) | Alura | :large_orange_diamond: | Desing Patterns | :moneybag:
