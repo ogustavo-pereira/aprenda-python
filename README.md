@@ -128,9 +128,9 @@ Nome do Podcast | Idioma
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/python/graphs/contributors).
 
-[![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) | [![abekroenem](https://avatars0.githubusercontent.com/u/20517508?s=70&v=4)](https://github.com/abekroenem)
---- | ---
-[Gustavo Pereira](https://github.com/oguhpereira) | [Paulo Barros](https://github.com/abekroenem)
+[![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) | [![cassiobotaro](https://avatars1.githubusercontent.com/u/3127847?s=70&v=4)](https://github.com/cassiobotaro) | [![abekroenem](https://avatars0.githubusercontent.com/u/20517508?s=70&v=4)](https://github.com/abekroenem)
+--- | --- | ---
+[Gustavo Pereira](https://github.com/oguhpereira) | [Cassio Botaro](https://github.com/abekroenem) | [Paulo Barros](https://github.com/abekroenem)
 
 
 <h6 align="center">
