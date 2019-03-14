@@ -128,9 +128,10 @@ Nome do Podcast | Idioma
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/python/graphs/contributors).
 
-[![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) 
---- |
-[Gustavo Pereira](https://github.com/oguhpereira)
+[![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) | [![abekroenem](https://avatars0.githubusercontent.com/u/20517508?s=70&v=4)](https://github.com/abekroenem)
+--- | ---
+[Gustavo Pereira](https://github.com/oguhpereira) | [Paulo Barros](https://github.com/abekroenem)
+
 
 <h6 align="center">
 	<a href="./MIT.md">MIT</a>
