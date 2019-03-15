@@ -30,6 +30,7 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
+[Construa uma E-Commerce com Python e Django](https://www.pycursos.com/django-ecommerce/) | [Pycursos](https://www.pycursos.com/) | :large_orange_diamond: | Django | :moneybag:
 [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python) | [DataCamp](https://www.datacamp.com) | :large_orange_diamond: | Data Science | :moneybag:
 [Curso de Python](http://excript.com/curso-de-python.html) | [excript](http://excript.com/) | :green_heart: | Básico de Python | :free:
 [Curso de Python com SQLite](http://excript.com/curso-python-sqlite.html) | [excript](http://excript.com/) | :large_orange_diamond: | Python/Banco de Dados | :free:
@@ -45,9 +46,11 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Python 3: Avançando na orientação a objetos](https://www.alura.com.br/curso-online-python-3-avancando-orientacao-objetos) | [Alura](https://www.alura.com.br/curso-online-introducao-ao-python) | :large_orange_diamond: | Orientação a objeto | :moneybag:
 [Python 3 parte 1: Introdução à nova versão da linguagem](https://www.alura.com.br/curso-online-python-3-introducao-a-nova-versao-da-linguagem) | [Alura](https://www.alura.com.br/curso-online-introducao-ao-python) | :green_heart: | Básico de Python | :moneybag:
 [Python 3 parte 2: Avançando na linguagem](https://www.alura.com.br/curso-online-python-3-avancando-na-linguagem) | [Alura](https://www.alura.com.br/curso-online-introducao-ao-python) | :green_heart: | Básico de Python | :moneybag:
-[Python Básico](https://www.cursoemvideo.com/course/curso-python-3/) | Curso em Vídeo | :green_heart: | Python para inciantes | :free:
+[Python Básico](https://www.cursoemvideo.com/course/curso-python-3/) | [Curso em Vídeo](https://www.cursoemvideo.com) | :green_heart: | Python para inciantes | :free:
 [Python para DevOps](https://www.4linux.com.br/cursos/python) |  [4Linux](https://www.4linux.com.br/) | :large_orange_diamond: | DevOps | :moneybag:
-[Python Para Zumbis](https://www.pycursos.com/python-para-zumbis/) | [Pycursos](https://www.pycursos.com/) | :green_heart: | Python do Básico ao Intermediário | :free:
+[Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) | [Pycursos](https://www.pycursos.com/) | :green_heart: | Python do Básico ao Intermediário | :free:
+[Python Scrapy: Capture Dados Web de forma rápida e escalável](https://www.pycursos.com/scrapy/) | [Pycursos](https://www.pycursos.com/) | :large_orange_diamond: | Scrapy | :moneybag:
+[SimpleMOOC: Construa uma plataforma de ensino com Django](https://www.pycursos.com/django-simplemooc/) | [Pycursos](https://www.pycursos.com/) | :large_orange_diamond: | Django | :free:
 [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) | [DataCamp](https://www.datacamp.com) | :large_orange_diamond: | Machine Learning/Data Science | :moneybag:
 [Testes automatizados: TDD com Python](https://www.alura.com.br/curso-online-tdd-com-python) | [Alura](https://www.alura.com.br/) | :red_circle: | Teste Automatizado | :moneybag:
 [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) | [DataCamp](https://www.datacamp.com) | :red_circle: | Machine Learning/Data Science | :moneybag:
