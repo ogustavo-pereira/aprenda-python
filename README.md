@@ -74,7 +74,7 @@ Título | Assunto | Formato | Preço | Idioma
 
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
-
+[PyNorte](http://pynorte.python.org.br/) | Nilo Menezes | :brazil:
 
 [Ir para o índice](#Índice)
 
@@ -106,6 +106,14 @@ Nome do Evento | Região Realizada
 
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
+[Python User Group - Piauí](https://t.me/pugpi) | Telegram | :brazil:
+[PyData Brasília](https://www.meetup.com/pt-BR/PyData-Brasilia/) | MeetUp | :brazil:
+[PyData BSB](https://t.me/PyDataBSB) | Telegram | :brazil:
+[GruPy-Campinas](https://t.me/joinchat/BCCTWj_O8w9uJKNSoEuaVA) | Telegram | :brazil:
+[GruPy-Campinas](https://www.meetup.com/GruPy-Campinas/) | MeetUp | :brazil:
+[PyNorte](https://github.com/PyNorte) | GitHub | :brazil:
+[PyNorte](https://groups.google.com/forum/#!forum/pynorte) | GoogleGroups | :brazil:
+[PyNorte](https://www.facebook.com/pynorte) | Facebook | :brazil:
 
 
 [Ir para o índice](#Índice)
