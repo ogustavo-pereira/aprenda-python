@@ -40,14 +40,19 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) | [DataCamp](https://www.datacamp.com) | :red_circle: | Deep Learning/Machine Learning | :moneybag:
 [Design Patterns Python II: Boas práticas de programação](https://www.alura.com.br/curso-online-design-patterns-python-2) | [Alura](https://www.alura.com.br/) | :large_orange_diamond: | Desing Patterns | :moneybag:
 [Django: programação web com Python e simplicidade](https://www.alura.com.br/curso-online-introducao-ao-django) | [Alura](https://www.alura.com.br/) | :red_circle: | Django | :moneybag:
+[Introdução à linguagem Python](https://www.udemy.com/intro_python/) | [Udemy](https://www.udemy.com) | :green_heart: | Básico de Python | :free: 
+[Introdução à Programação para Bioinformática com Python](https://www.udemy.com/python_para_bioinformatica/) | [Udemy](https://www.udemy.com) | :green_heart: | Manipulação de dados biológicos e pesquisas científicas | :free: 
 [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python) | [DataCamp](https://www.datacamp.com) | :large_orange_diamond: | Data Visualization | :moneybag:
 [Programação em Python](http://www.bosontreinamentos.com.br/category/programacao-em-python/) | [Bóson Treinamentos](http://www.bosontreinamentos.com.br) | :green_heart: | Básico de Python | :free:
 [Python 2: Programando com a linguagem](https://www.alura.com.br/curso-online-introducao-ao-python) | [Alura](https://www.alura.com.br/curso-online-introducao-ao-python) | :green_heart: | Básico de Python2 | :moneybag:
 [Python 3: Avançando na orientação a objetos](https://www.alura.com.br/curso-online-python-3-avancando-orientacao-objetos) | [Alura](https://www.alura.com.br/curso-online-introducao-ao-python) | :large_orange_diamond: | Orientação a objeto | :moneybag:
+[Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) | [Udemy](https://www.udemy.com/) | :large_orange_diamond:: | Django | :free: 
 [Python 3 parte 1: Introdução à nova versão da linguagem](https://www.alura.com.br/curso-online-python-3-introducao-a-nova-versao-da-linguagem) | [Alura](https://www.alura.com.br/curso-online-introducao-ao-python) | :green_heart: | Básico de Python | :moneybag:
 [Python 3 parte 2: Avançando na linguagem](https://www.alura.com.br/curso-online-python-3-avancando-na-linguagem) | [Alura](https://www.alura.com.br/curso-online-introducao-ao-python) | :green_heart: | Básico de Python | :moneybag:
 [Python Básico](https://www.cursoemvideo.com/course/curso-python-3/) | [Curso em Vídeo](https://www.cursoemvideo.com) | :green_heart: | Python para inciantes | :free:
+[Python e Mysql](https://www.udemy.com/python-mysql/) | [Udemy](https://www.udemy.com/) | :green_heart: | Básicos da linguagem Python, conectados a bases de dados MySQL | :free: 
 [Python para DevOps](https://www.4linux.com.br/cursos/python) |  [4Linux](https://www.4linux.com.br/) | :large_orange_diamond: | DevOps | :moneybag:
+[Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) | [Udemy](https://www.udemy.com) | :green_heart: | Básico de Python | :free: 
 [Python para Zumbis](https://www.pycursos.com/python-para-zumbis/) | [Pycursos](https://www.pycursos.com/) | :green_heart: | Python do Básico ao Intermediário | :free:
 [Python Scrapy: Capture Dados Web de forma rápida e escalável](https://www.pycursos.com/scrapy/) | [Pycursos](https://www.pycursos.com/) | :large_orange_diamond: | Scrapy | :moneybag:
 [SimpleMOOC: Construa uma plataforma de ensino com Django](https://www.pycursos.com/django-simplemooc/) | [Pycursos](https://www.pycursos.com/) | :large_orange_diamond: | Django | :free:
