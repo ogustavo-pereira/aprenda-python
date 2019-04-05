@@ -69,8 +69,12 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 ## :book: Livros
 
-Título | Assunto | Formato | Preço | Idioma
+Título | Assunto | Formato | Pago/Gratuito | Idioma
 :-- | :--: | :--: | :--: | :--:
+[Introdução à Visão Computacional](https://www.casadocodigo.com.br/products/livro-visao-computacional) | OpenCV e Python | Ebook/Impress | :moneybag: | Português
+[Python Escreva seus primeiros programas](https://www.casadocodigo.com.br/products/livro-python-3) | Aprender a desenvolver em python | Ebook/Impresso | :moneybag: | Português
+[Trilhas Python Programação multiparadigma e desenvolvimento Web com Flask](https://www.casadocodigo.com.br/products/livro-trilhas-python) | Flask | Ebook/Impresso | :moneybag: | Português
+
 
 
 [Ir para o índice](#Índice)
