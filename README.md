@@ -83,7 +83,7 @@ Título | Assunto | Formato | Pago/Gratuito | Idioma
 
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
-[PyNorte](http://pynorte.python.org.br/) | Nilo Menezes | :brazil:
+[PyNorte](http://pynorte.python.org.br/) | Nilo Menezes | Português
 
 [Ir para o índice](#Índice)
 
@@ -115,14 +115,14 @@ Nome do Evento | Região Realizada
 
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
-[Python User Group - Piauí](https://t.me/pugpi) | Telegram | :brazil:
-[PyData Brasília](https://www.meetup.com/pt-BR/PyData-Brasilia/) | MeetUp | :brazil:
-[PyData BSB](https://t.me/PyDataBSB) | Telegram | :brazil:
-[GruPy-Campinas](https://t.me/joinchat/BCCTWj_O8w9uJKNSoEuaVA) | Telegram | :brazil:
-[GruPy-Campinas](https://www.meetup.com/GruPy-Campinas/) | MeetUp | :brazil:
-[PyNorte](https://github.com/PyNorte) | GitHub | :brazil:
-[PyNorte](https://groups.google.com/forum/#!forum/pynorte) | GoogleGroups | :brazil:
-[PyNorte](https://www.facebook.com/pynorte) | Facebook | :brazil:
+[Python User Group - Piauí](https://t.me/pugpi) | Telegram | Português
+[PyData Brasília](https://www.meetup.com/pt-BR/PyData-Brasilia/) | MeetUp | Português
+[PyData BSB](https://t.me/PyDataBSB) | Telegram | Português
+[GruPy-Campinas](https://t.me/joinchat/BCCTWj_O8w9uJKNSoEuaVA) | Telegram | Português
+[GruPy-Campinas](https://www.meetup.com/GruPy-Campinas/) | MeetUp | Português
+[PyNorte](https://github.com/PyNorte) | GitHub | Português
+[PyNorte](https://groups.google.com/forum/#!forum/pynorte) | GoogleGroups | Português
+[PyNorte](https://www.facebook.com/pynorte) | Facebook | Português
 
 
 [Ir para o índice](#Índice)
@@ -137,9 +137,9 @@ Nome do Feed | Idioma
 ## :sound: Podcasts
 Nome do Podcast | Idioma
 :-- | :--:
-[DataCamp Podcast](https://www.datacamp.com/community/podcast) | :us:
-[Talk Python to Me](https://talkpython.fm/) | :us:
-[Vale apena Python? - DNE](https://devnaestrada.com.br/2018/04/13/vale-a-pena-python.html) | :brazil:
+[DataCamp Podcast](https://www.datacamp.com/community/podcast) | Inglês
+[Talk Python to Me](https://talkpython.fm/) | Inglês
+[Vale apena Python? - DNE](https://devnaestrada.com.br/2018/04/13/vale-a-pena-python.html) | Português
 
 
 [Ir para o índice](#Índice)
