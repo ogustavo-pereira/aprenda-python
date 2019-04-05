@@ -135,6 +135,7 @@ Nome do Podcast | Idioma
 :-- | :--:
 [DataCamp Podcast](https://www.datacamp.com/community/podcast) | :us:
 [Talk Python to Me](https://talkpython.fm/) | :us:
+[Vale apena Python? - DNE](https://devnaestrada.com.br/2018/04/13/vale-a-pena-python.html) | :brazil:
 
 
 [Ir para o índice](#Índice)
