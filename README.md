@@ -139,6 +139,7 @@ Nome do Podcast | Idioma
 :-- | :--:
 [DataCamp Podcast](https://www.datacamp.com/community/podcast) | Inglês
 [Talk Python to Me](https://talkpython.fm/) | Inglês
+[Python - Lambda3 Podcast 60](https://www.lambda3.com.br/2017/09/lambda3-podcast-60-python) | Português
 [Vale apena Python? - DNE](https://devnaestrada.com.br/2018/04/13/vale-a-pena-python.html) | Português
 
 
