@@ -123,7 +123,23 @@ Nome da Comunidade | Tipo | Idioma
 [PyNorte](https://github.com/PyNorte) | GitHub | Português
 [PyNorte](https://groups.google.com/forum/#!forum/pynorte) | GoogleGroups | Português
 [PyNorte](https://www.facebook.com/pynorte) | Facebook | Português
-
+[GRUPY-ABC](https://telegram.me/grupyabc) | Telegram | Português
+[GRUPY-DF](https://telegram.me/grupydf) | Telegram | Português
+[GRUPY-ES](https://telegram.me/grupyes) | Telegram | Português
+[GRUPY-PR](https://telegram.me/grupy_pr) | Telegram | Português
+[GRUPY-SP](https://telegram.me/grupysaopaulo) | Telegram | Português
+[PyBr Roda de Conversa](https://t.me/pythonbr) | Telegram | Português
+[PyCoding](https://telegram.me/PyCoding) | Telegram | Português
+[Pygrameiros](https://t.me/joinchat/AAAAAEOnjcIiD2WH_TD8Vg) | Telegram | Português
+[PyKivy BR](https://t.me/pykivy) | Telegram | Português
+[PyNorte](https://telegram.me/joinchat/COYq6T90D2FTAkqkTH3GqA) | Telegram | Português
+[PyTche](https://t.me/pytche) | Telegram | Português
+[Python Flask](https://telegram.me/pythonflask) | Telegram | Português
+[Python Floripa](https://t.me/pythonfloripa) | Telegram | Português
+[Python Joinville](https://t.me/pythonjoinville) | Telegram | Português
+[Python Rio](https://t.me/PythonRio) | Telegram | Português
+[Python Sul](https://t.me/PythonSulBR) | Telegram | Português
+[web2py](https://telegram.me/joinchat/BjJfXQkbgEsnJ1L0mHI-BQ) | Telegram | Português
 
 [Ir para o índice](#Índice)
 
