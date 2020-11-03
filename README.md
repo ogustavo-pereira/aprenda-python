@@ -4,7 +4,7 @@
 
 <h1 align="center">Aprenda Python</h1>
 
-<p align="center">Central de conhecimento sobre Python.</p>
+<p align="center">Agrupamento de link's sobre Python.</p>
 
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
@@ -12,11 +12,7 @@
 	<a href="#mortar_board-cursos">Cursos</a> •
 	<a href="#book-livros">Livros</a> •
 	<a href="#newspaper-blogs">Blogs</a> •
-	<a href="#video_camera-palestras-v%C3%ADdeos">Palestras</a> •
-	<a href="#computer-screencasts">Screencasts</a> •
-	<a href="#eventos-ativos">Eventos ativos</a> •
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
-	<a href="#paperclip-feeds">Feeds</a> •
 	<a href="#sound-podcasts">Podcasts</a> •
 </p>
 
@@ -61,19 +57,15 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Unsupervised Learning in Python](https://www.datacamp.com/courses/unsupervised-learning-in-python) | [DataCamp](https://www.datacamp.com) | :red_circle: | Machine Learning/Data Science | :moneybag:
 
 
-
-
-
-
 [Ir para o índice](#Índice)
 
 ## :book: Livros
 
 Título | Assunto | Formato | Pago/Gratuito | Idioma
 :-- | :--: | :--: | :--: | :--:
-[Introdução à Visão Computacional](https://www.casadocodigo.com.br/products/livro-visao-computacional) | OpenCV e Python | Ebook/Impress | :moneybag: | Português
-[Python Escreva seus primeiros programas](https://www.casadocodigo.com.br/products/livro-python-3) | Aprender a desenvolver em python | Ebook/Impresso | :moneybag: | Português
-[Trilhas Python Programação multiparadigma e desenvolvimento Web com Flask](https://www.casadocodigo.com.br/products/livro-trilhas-python) | Flask | Ebook/Impresso | :moneybag: | Português
+[Introdução à Visão Computacional](https://www.casadocodigo.com.br/products/livro-visao-computacional) | OpenCV e Python | Ebook, Impress | :moneybag: | Português
+[Python Escreva seus primeiros programas](https://www.casadocodigo.com.br/products/livro-python-3) | Aprender a desenvolver em python | Ebook, Impresso | :moneybag: | Português
+[Trilhas Python Programação multiparadigma e desenvolvimento Web com Flask](https://www.casadocodigo.com.br/products/livro-trilhas-python) | Flask | Ebook, Impresso | :moneybag: | Português
 
 
 
@@ -84,32 +76,11 @@ Título | Assunto | Formato | Pago/Gratuito | Idioma
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
 [PyNorte](http://pynorte.python.org.br/) | Nilo Menezes | Português
+[pythonacademy](https://pythonacademy.com.br/blog/) | pythonacademy | Português
+[PythonClub ](http://pythonclub.com.br/) | PythonClub  | Português
 
 [Ir para o índice](#Índice)
 
-## :video_camera: Palestras (vídeos)
-
-Título | Evento | Assuntos
-:-- | :-- | :--
-
-
-[Ir para o índice](#Índice)
-
-## :computer: Screencasts
-Título | Assunto | Idioma
-:-- | :-- | :--
-
-
-[Ir para o índice](#Índice)
-
-
-## :circus_tent: Eventos Ativos
-
-Nome do Evento | Região Realizada
-:-- | :--
-
-
-[Ir para o índice](#Índice)
 
 ## :speech_balloon: Comunidades
 
@@ -143,13 +114,6 @@ Nome da Comunidade | Tipo | Idioma
 
 [Ir para o índice](#Índice)
 
-## :paperclip: Feeds
-Nome do Feed | Idioma
-:-- | :--:
-
-
-[Ir para o índice](#Índice)
-
 ## :sound: Podcasts
 Nome do Podcast | Idioma
 :-- | :--:
@@ -162,9 +126,17 @@ Nome do Podcast | Idioma
 [Ir para o índice](#Índice)
 
 
-## Team
+## Mais Sobre
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/python/graphs/contributors).
+* [Documentação Python3](https://docs.python.org/3/)
+* [Documentação Django](https://docs.djangoproject.com/en/3.1/)
+* [Python Brasil](https://python.org.br/)
+* [Aprendendo Python do Zero - medium](https://medium.com/trainingcenter/aprendendo-python-do-zero-b9a13d8646b3)
+
+
+## Time
+
+Este projeto é mantido pela(s) seguinte(s) pessoa(s):
 
 [![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) | [![cassiobotaro](https://avatars1.githubusercontent.com/u/3127847?s=70&v=4)](https://github.com/cassiobotaro) | [![abekroenem](https://avatars0.githubusercontent.com/u/20517508?s=70&v=4)](https://github.com/abekroenem)
 --- | --- | ---
