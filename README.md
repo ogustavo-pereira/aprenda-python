@@ -138,9 +138,9 @@ Nome do Podcast | Idioma
 
 Este projeto é mantido pela(s) seguinte(s) pessoa(s):
 
-[![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) | [![cassiobotaro](https://avatars1.githubusercontent.com/u/3127847?s=70&v=4)](https://github.com/cassiobotaro) | [![abekroenem](https://avatars0.githubusercontent.com/u/20517508?s=70&v=4)](https://github.com/abekroenem)
---- | --- | ---
-[Gustavo Pereira](https://github.com/oguhpereira) | [Cassio Botaro](https://github.com/abekroenem) | [Paulo Barros](https://github.com/abekroenem)
+* [Gustavo Pereira](https://github.com/oguhpereira)
+* [Cassio Botaro](https://github.com/abekroenem)
+* [Paulo Barros](https://github.com/abekroenem)
 
 
 <h6 align="center">
