@@ -139,9 +139,6 @@ Nome do Podcast | Idioma
 Este projeto é mantido pela(s) seguinte(s) pessoa(s):
 
 * [Gustavo Pereira](https://github.com/oguhpereira)
-* [Cassio Botaro](https://github.com/abekroenem)
-* [Paulo Barros](https://github.com/abekroenem)
-
 
 <h6 align="center">
 	<a href="./MIT.md">MIT</a>
