@@ -14,6 +14,7 @@
 	<a href="#newspaper-blogs">Blogs</a> •
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
 	<a href="#sound-podcasts">Podcasts</a> •
+	<a href="#mais-sobre">Mais Sobre</a>
 </p>
 
 ## :mortar_board: Cursos
@@ -110,8 +111,9 @@ Nome da Comunidade | Tipo | Idioma
 [Ir para o índice](#Índice)
 
 ## :sound: Podcasts
+
 Nome do Podcast | Idioma
-:-- | :--:
+:-- | :--
 [DataCamp Podcast](https://www.datacamp.com/community/podcast) | Inglês
 [Talk Python to Me](https://talkpython.fm/) | Inglês
 [Python - Lambda3 Podcast 60](https://www.lambda3.com.br/2017/09/lambda3-podcast-60-python) | Português
