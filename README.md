@@ -32,8 +32,6 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) | [Udemy](https://www.udemy.com/) | Intermediario | Django | Gratuito 
 [SimpleMOOC: Construa uma plataforma de ensino com Django](https://www.pycursos.com/django-simplemooc/) | [Pycursos](https://www.pycursos.com/) | Intermediario | Django | Gratuito
 [Curso de Python com SQLite](http://excript.com/curso-python-sqlite.html) | [excript](http://excript.com/) | Intermediario | Python/Banco de Dados | Gratuito
-
-
 [Python 3 parte 2: Avançando na linguagem](https://www.alura.com.br/curso-online-python-3-avancando-na-linguagem) | [Alura](https://www.alura.com.br/curso-online-introducao-ao-python) | Básico | Básico de Python | Pago
 [Python 3 parte 1: Introdução à nova versão da linguagem](https://www.alura.com.br/curso-online-python-3-introducao-a-nova-versao-da-linguagem) | [Alura](https://www.alura.com.br/curso-online-introducao-ao-python) | Básico | Básico de Python | Pago
 [Python 2: Programando com a linguagem](https://www.alura.com.br/curso-online-introducao-ao-python) | [Alura](https://www.alura.com.br/curso-online-introducao-ao-python) | Básico | Básico de Python2 | Pago
