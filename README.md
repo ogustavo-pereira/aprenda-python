@@ -44,8 +44,8 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Python 3: Avançando na orientação a objetos](https://www.alura.com.br/curso-online-python-3-avancando-orientacao-objetos) | [Alura](https://www.alura.com.br/curso-online-introducao-ao-python) | Intermediario | Orientação a objeto | Pago
 [Python para DevOps](https://www.4linux.com.br/cursos/python) |  [4Linux](https://www.4linux.com.br/) | Intermediario | DevOps | Pago
 [Python Scrapy: Capture Dados Web de forma rápida e escalável](https://www.pycursos.com/scrapy/) | [Pycursos](https://www.pycursos.com/) | Intermediario | Scrapy | Pago
-[Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) | [DataCamp](https://www.datacamp.com) | Avançado | Deep Learning/Machine Learning | Pago
 [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn) | [DataCamp](https://www.datacamp.com) | Intermediario | Machine Learning/Data Science | Pago
+[Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python) | [DataCamp](https://www.datacamp.com) | Avançado | Deep Learning/Machine Learning | Pago
 [Django: programação web com Python e simplicidade](https://www.alura.com.br/curso-online-introducao-ao-django) | [Alura](https://www.alura.com.br/) | Avançado | Django | Pago
 [Flask parte 2: Avançando no desenvolvimento web](https://www.alura.com.br/curso-online-flask-upload-persistencia-javascript-jquery) | [Alura](https://www.alura.com.br/) |Avançado | Flask | Pago
 [Testes automatizados: TDD com Python](https://www.alura.com.br/curso-online-tdd-com-python) | [Alura](https://www.alura.com.br/) | Avançado | Teste Automatizado | Pago
