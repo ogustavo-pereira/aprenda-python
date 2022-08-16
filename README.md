@@ -129,16 +129,3 @@ Nome do Podcast | Idioma
 * [Documentação Django](https://docs.djangoproject.com/en/3.1/)
 * [Python Brasil](https://python.org.br/)
 * [Aprendendo Python do Zero - medium](https://medium.com/trainingcenter/aprendendo-python-do-zero-b9a13d8646b3)
-
-
-## Time
-
-Este projeto é mantido pela(s) seguinte(s) pessoa(s):
-
-* [Gustavo Pereira](https://github.com/oguhpereira)
-
-<h6 align="center">
-	<a href="./MIT.md">MIT</a>
-	©
-	Learn Br
-</h6>
